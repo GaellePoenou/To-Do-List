@@ -1,22 +1,31 @@
-Un projet de gestion de tâches simples
-
-Caractéristiques Techniques :
-
-HTML5, CSS3, JavaScript : HTML5 pour la structure, le CSS3 pour le style, et JavaScript pour la gestion dynamique des interactions utilisateur.
+# To-Do List Web App
 
 
-Gestion des Tâches : Les tâches ajoutées sont affichées de manière ordonnée, et vous pouvez cocher une tâche comme terminée d'un simple clic.
+## Description
 
-Suppression de Tâches : La suppression de tâches est également prise en charge avec un bouton "X" intuitif, offrant une expérience de gestion des tâches complète.
+Cette application de liste de tâches offre une interface simple et conviviale pour gérer vos tâches quotidiennes. Ajoutez, supprimez et cochez les tâches à mesure que vous avancez dans votre journée.
 
-Stockage Local : Les données de votre liste de tâches sont sauvegardées localement dans le navigateur, assurant une persistance des données même après la fermeture de la page.
 
-Fonctionnement :
+## Fonctionnalités Principales
 
-Ajout de Tâches : Saisissez une nouvelle tâche dans le champ prévu à cet effet et appuyez sur "Ajouter".
+- **Ajout de Tâches** : Saisissez de nouvelles tâches avec le champ de texte dédié.
+- **Suppression de Tâches** : Retirez les tâches terminées ou non nécessaires d'un simple clic.
+- **Marquage de Tâches Accomplies** : Cochez les tâches terminées pour garder une trace de votre progression.
 
-Marquer comme Terminé : Cliquez sur une tâche pour la marquer comme terminée. Les tâches terminées sont stylisées pour une identification rapide.
+## Technologies Utilisées
 
-Supprimer une Tâche : Utilisez le bouton "X" pour supprimer une tâche de votre liste.
+- HTML, CSS, JavaScript
+- ...
 
-Sauvegarde Automatique : Les tâches sont automatiquement sauvegardées localement pour une reprise facile lors de vos visites ultérieures.
+## Installation
+
+1. **Clonez le dépôt** : `git clone https://github.com/votre-utilisateur/to-do-list-web-app.git`
+2. **Ouvrez le fichier HTML** : `index.html`
+
+## Utilisation
+
+1. Saisissez une nouvelle tâche dans le champ dédié.
+2. Cliquez sur "Ajouter" pour inclure la tâche dans votre liste.
+3. Cochez les tâches terminées et supprimez celles dont vous n'avez plus besoin.
+
+
